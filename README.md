@@ -3,10 +3,10 @@
 
 <h2> The qualitative results of FSDS on four datasets. </h2>
 
-```diff
+
 <div style="text-align:center"><img src='bsds500.png' width=800>
 </div>
-```
+
 
 ```diff
 <div style="text-align:center"><img src='NYUD.png' width=800>
