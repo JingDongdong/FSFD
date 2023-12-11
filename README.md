@@ -5,22 +5,22 @@ The qualitative results of FSDS on four datasets.
 ```
 
 ```diff
-<div style="text-align:center"><img src='images/bsds500.png' width=800>
+<div style="text-align:center"><img src='bsds500.png' width=800>
 </div>
 ```
 
 ```diff
-<div style="text-align:center"><img src='images/NYUD.png.png' width=800>
+<div style="text-align:center"><img src='NYUD.png.png' width=800>
 </div>
 ```
 
 ```diff
-<div style="text-align:center"><img src='images/Multicue.png.png' width=800>
+<div style="text-align:center"><img src='Multicue.png.png' width=800>
 </div>
 ```
 
 ```diff
-<div style="text-align:center"><img src='images/BIPED.png' width=800>
+<div style="text-align:center"><img src='BIPED.png' width=800>
 </div>
 ```
 
