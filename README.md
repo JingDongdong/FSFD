@@ -8,20 +8,20 @@
 </div>
 
 
-```diff
+
 <div style="text-align:center"><img src='NYUD.png' width=800>
 </div>
-```
 
-```diff
+
+
 <div style="text-align:center"><img src='Multicue.png' width=800>
 </div>
-```
 
-```diff
+
+
 <div style="text-align:center"><img src='BIPED.png' width=800>
 </div>
-```
+
 
 <h2> 
 The quantitative results of FSDS on four datasets.
