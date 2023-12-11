@@ -1,8 +1,8 @@
 # FSFD: Boosting Edge Detection via Fusing Spatial and Frequency Domains
 
-```diff
-The qualitative results of FSDS on four datasets.
-```
+
+<h1> The qualitative results of FSDS on four datasets. </h1>
+
 
 ```diff
 <div style="text-align:center"><img src='bsds500.png' width=800>
