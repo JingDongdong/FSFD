@@ -10,12 +10,12 @@ The qualitative results of FSDS on four datasets.
 ```
 
 ```diff
-<div style="text-align:center"><img src='NYUD.png.png' width=800>
+<div style="text-align:center"><img src='NYUD.png' width=800>
 </div>
 ```
 
 ```diff
-<div style="text-align:center"><img src='Multicue.png.png' width=800>
+<div style="text-align:center"><img src='Multicue.png' width=800>
 </div>
 ```
 
