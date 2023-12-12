@@ -6,28 +6,28 @@
 ```diff
 BSDS500
 ```
-<div style="text-align:center"><img src='bsds500.png' width=800>
+<div style="text-align:center"><img src='bsds500.png' width=600>
 </div>
 
 ```diff
 NYUD V2
 ```
 
-<div style="text-align:center"><img src='NYUD.png' width=800>
+<div style="text-align:center"><img src='NYUD.png' width=600>
 </div>
 
 ```diff
 Multicue
 ```
 
-<div style="text-align:center"><img src='Multicue.png' width=800>
+<div style="text-align:center"><img src='Multicue.png' width=600>
 </div>
 
 
 ```diff
 BIPED
 ```
-<div style="text-align:center"><img src='BIPED.png' width=800>
+<div style="text-align:center"><img src='BIPED.png' width=600>
 </div>
 
 ```diff
