@@ -3,25 +3,25 @@
 
 ## The qualitative results of FSDS on four datasets. 
 
-```diff BSDS500 ```
+``` BSDS500 ```
 <div style="text-align:center"><img src='bsds500.png' width=600>
 </div>
 
 
-```diff NYUD V2 ```
+``` NYUD V2 ```
 <div style="text-align:center"><img src='NYUD.png' width=600>
 </div>
 
-```diff Multicue ```
+``` Multicue ```
 <div style="text-align:center"><img src='Multicue.png' width=600>
 </div>
 
 
-```diff BIPED ```
+``` BIPED ```
 <div style="text-align:center"><img src='BIPED.png' width=600>
 </div>
 
-```diff Edge detection datasets ```
+``` Edge detection datasets ```
 
 * [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/), [NYUDV2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html), [Multicue](http://serre-lab.clps.brown.edu/resource/multicue/) and [BIPED](https://xavysp.github.io/MBIPED/)
 
