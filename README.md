@@ -3,9 +3,8 @@
 
 ## The qualitative results of FSDS on four datasets. 
 
-```diff
-BSDS500
-```
+### BSDS500
+
 <div style="text-align:center"><img src='bsds500.png' width=600>
 </div>
 
