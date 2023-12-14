@@ -8,24 +8,19 @@
 <div style="text-align:center"><img src='bsds500.png' width=600>
 </div>
 
-```diff
-NYUD V2
-```
+
+### NYUD V2
+
 
 <div style="text-align:center"><img src='NYUD.png' width=600>
 </div>
 
-```diff
-Multicue
-```
-
+### Multicue
 <div style="text-align:center"><img src='Multicue.png' width=600>
 </div>
 
 
-```diff
-BIPED
-```
+### BIPED
 <div style="text-align:center"><img src='BIPED.png' width=600>
 </div>
 
