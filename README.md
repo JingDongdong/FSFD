@@ -1,10 +1,10 @@
 # FSFD: Boosting Edge Detection via Fusing Spatial and Frequency Domains
 
-## The architecture of FSDS.
+## The architecture of FSFD.
 <div style="text-align:center"><img src='FSFD.png' width=600>
 </div>
 
-## The qualitative results of FSDS on four datasets. 
+## The qualitative results of FSFD on four datasets. 
 
 ``` BSDS500 ```
 <div style="text-align:center"><img src='bsds500.png' width=600>
@@ -28,7 +28,7 @@
 
 * [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/), [NYUDV2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html), [Multicue](http://serre-lab.clps.brown.edu/resource/multicue/) and [BIPED](https://xavysp.github.io/MBIPED/)
 
-## The quantitative results of FSDS on four datasets.
+## The quantitative results of FSFD on four datasets.
 
 <center>
 
