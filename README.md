@@ -1,5 +1,8 @@
 # FSFD: Boosting Edge Detection via Fusing Spatial and Frequency Domains
 
+## The architecture of FSDS.
+<div style="text-align:center"><img src='FSFD.png' width=600>
+</div>
 
 ## The qualitative results of FSDS on four datasets. 
 
